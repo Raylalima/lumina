@@ -21,7 +21,7 @@ export function Header({ isDark, toggleTheme, scrollToSection }: HeaderProps) {
               <Lightbulb className="w-6 h-6 text-black" />
             </div>
             <span className={`${isDark ? 'text-white' : 'text-black'}`}>
-              Lumina Comunicação
+              Lumina 
             </span>
           </button>
 

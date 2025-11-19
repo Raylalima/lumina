@@ -18,7 +18,7 @@ const slides = [
     image: 'https://images.unsplash.com/photo-1725859685127-c723ea1d32a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYWZlJTIwaW50ZXJpb3IlMjBjb3p5fGVufDF8fHx8MTc2MDUxMjIzOHww&ixlib=rb-4.1.0&q=80&w=1080',
   },
   {
-    title: 'Comunicação que ilumina',
+    title: 'Resultados que iluminam',
     subtitle: 'Estratégias personalizadas para cada negócio',
     image: 'https://images.unsplash.com/photo-1657593088889-5105c637f2a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwZGluaW5nJTIwYXJlYXxlbnwxfHx8fDE3NjA0NTI1MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
   },

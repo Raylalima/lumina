@@ -33,7 +33,7 @@ export function AboutSection({ isDark }: AboutSectionProps) {
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16">
           <h2 className={`mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
-            Sobre a Lumina Comunicação
+            Sobre a Lumina
           </h2>
           <p className={`text-xl ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>
             Somos especialistas em dar visibilidade a comércios locais que merecem ser descobertos.

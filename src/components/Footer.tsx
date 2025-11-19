@@ -17,7 +17,7 @@ export function Footer({ isDark, scrollToSection }: FooterProps) {
                 <Lightbulb className="w-6 h-6 text-black" />
               </div>
               <span className={isDark ? 'text-white' : 'text-black'}>
-                Lumina Comunicação
+                Lumina 
               </span>
             </div>
             <p className={`mb-4 max-w-md ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>
@@ -109,14 +109,14 @@ export function Footer({ isDark, scrollToSection }: FooterProps) {
             <ul className={`space-y-2 ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>
               <li>São Paulo, SP</li>
               <li>(11) 9 9999-9999</li>
-              <li>contato@luminacomunicacao.com</li>
+              <li>contato@lumina.com</li>
             </ul>
           </div>
         </div>
 
         <div className={`mt-8 pt-8 border-t ${isDark ? 'border-zinc-800' : 'border-gray-200'} text-center`}>
           <p className={isDark ? 'text-gray-400' : 'text-gray-600'}>
-            © 2025 Lumina Comunicação. Todos os direitos reservados.
+            © 2025 Lumina. Todos os direitos reservados.
           </p>
         </div>
       </div>
