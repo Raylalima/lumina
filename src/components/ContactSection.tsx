@@ -59,7 +59,7 @@ export function ContactSection({ isDark }: ContactSectionProps) {
                     Email
                   </p>
                   <p className={isDark ? 'text-white' : 'text-black'}>
-                    lumina@gmail.com
+                    luminaofiicial@gmail.com
                   </p>
                 </div>
               </div>

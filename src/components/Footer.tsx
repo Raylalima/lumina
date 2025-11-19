@@ -109,7 +109,7 @@ export function Footer({ isDark, scrollToSection }: FooterProps) {
             <ul className={`space-y-2 ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>
               <li>São Paulo, SP</li>
               <li>(11) 9 9999-9999</li>
-              <li>contato@lumina.com</li>
+              <li>luminaofiicial@gmail.com</li>
             </ul>
           </div>
         </div>

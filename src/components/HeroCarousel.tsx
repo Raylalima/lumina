@@ -10,17 +10,17 @@ const slides = [
   {
     title: 'Dê visibilidade ao seu negócio',
     subtitle: 'Conecte-se com novos clientes e aumente suas vendas',
-    image: 'https://images.unsplash.com/photo-1612012060786-58a0bf29474c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxzbWFsbCUyMGxvY2FsJTIwYnVzaW5lc3MlMjBzdG9yZWZyb250fGVufDF8fHx8MTc2MDU1MTExMnww&ixlib=rb-4.1.0&q=80&w=1080',
+    image: '../../img/fundo1.png',
   },
   {
     title: 'Destaque seu comércio local',
     subtitle: 'Alcance clientes que procuram serviços como o seu',
-    image: 'https://images.unsplash.com/photo-1725859685127-c723ea1d32a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxjYWZlJTIwaW50ZXJpb3IlMjBjb3p5fGVufDF8fHx8MTc2MDUxMjIzOHww&ixlib=rb-4.1.0&q=80&w=1080',
+    image: '../../img/fundo2.png',
   },
   {
     title: 'Resultados que iluminam',
     subtitle: 'Estratégias personalizadas para cada negócio',
-    image: 'https://images.unsplash.com/photo-1657593088889-5105c637f2a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyZXN0YXVyYW50JTIwZGluaW5nJTIwYXJlYXxlbnwxfHx8fDE3NjA0NTI1MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: '../../img/fundo3.png',
   },
 ];
 
