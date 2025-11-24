@@ -10,17 +10,17 @@ const slides = [
   {
     title: 'Dê visibilidade ao seu negócio',
     subtitle: 'Conecte-se com novos clientes e aumente suas vendas',
-    image: '../../img/fundo1.png',
+    image: 'img/fundo1.png',
   },
   {
     title: 'Destaque seu comércio local',
     subtitle: 'Alcance clientes que procuram serviços como o seu',
-    image: '../../img/fundo2.png',
+    image: 'img/fundo2.png',
   },
   {
     title: 'Resultados que iluminam',
     subtitle: 'Estratégias personalizadas para cada negócio',
-    image: '../../img/fundo3.png',
+    image: 'img/fundo3.png',
   },
 ];
 
