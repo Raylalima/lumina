@@ -11,44 +11,45 @@ const businesses = [
     category: 'Padaria',
     location: 'Cidade Júlia',
     rating: 4.8,
-    image: 'img/padaria.png',
+    image: '/img/padaria.png',
   },
   {
     name: 'Tha Closet',
     category: 'Roupas Femininas',
     location: 'Avenida Ângelo Cristianini',
     rating: 4.9,
-    image: 'img/roupas.png',
+    image: '/img/roupas.png',
   },
   {
     name: 'Luara',
     category: 'Perfumaria',
     location: 'Alvarenga',
     rating: 4.7,
-    image: 'img/perfumaria.png',
+    image: '/img/perfumaria.png',
   },
   {
     name: 'La Belleza',
     category: 'Salão de beleza',
     location: 'Cidade Júlia',
     rating: 5.0,
-    image: 'img/salao.png',
+    image: '/img/salao.png',
   },
   {
     name: 'Realce Doces e Salgados',
     category: 'Doceria',
     location: 'Vila Missionária',
     rating: 4.6,
-    image: 'img/docinho.png',
+    image: '/img/docinho.png',
   },
   {
     name: 'Delícias Padaria',
     category: 'Mercado',
     location: 'Parque Primavera',
     rating: 4.5,
-    image: 'img/padoca.png',
+    image: '/img/padoca.png',
   },
 ];
+
 
 export function BusinessSection({ isDark }: BusinessSectionProps) {
   return (
