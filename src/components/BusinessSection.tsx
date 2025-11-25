@@ -19,7 +19,7 @@ const businesses = [
     category: 'Padaria',
     location: 'Cidade Júlia',
     rating: 4.8,
-    image: '/img/padaria.png',
+    image: "/img/padaria.png",
   },
   {
     name: 'Tha Closet',
