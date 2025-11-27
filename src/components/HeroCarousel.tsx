@@ -60,7 +60,7 @@ export function HeroCarousel({ isDark }: HeroCarouselProps) {
             <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/40" />
             <div className="absolute inset-0 flex items-center justify-center">
               <div className="text-center text-white px-4 max-w-3xl">
-                <h1 className="mb-4 bg-gradient-to-r from-yellow-400 to-red-500 bg-clip-text text-transparent">
+                <h1 className="text-l md:text-6xl mb-4 ">
                   {slide.title}
                 </h1>
                 <p className="text-xl opacity-90">{slide.subtitle}</p>

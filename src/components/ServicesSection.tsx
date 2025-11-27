@@ -36,7 +36,7 @@ export function ServicesSection({ isDark }: ServicesSectionProps) {
     <section id="servicos" className={`py-20 ${isDark ? 'bg-zinc-900' : 'bg-gray-50'} transition-colors duration-300`}>
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className={`mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
+          <h2 className={`text-xl mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
             Nossos Serviços
           </h2>
           <p className={`text-xl ${isDark ? 'text-gray-300' : 'text-gray-600'} max-w-2xl mx-auto`}>

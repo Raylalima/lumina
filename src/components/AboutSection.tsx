@@ -32,7 +32,7 @@ export function AboutSection({ isDark }: AboutSectionProps) {
     <section id="sobre" className={`py-20 ${isDark ? 'bg-black' : 'bg-white'} transition-colors duration-300`}>
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16">
-          <h2 className={`mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
+          <h2 className={`text-xl mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
             Sobre a Lumina
           </h2>
           <p className={`text-xl ${isDark ? 'text-gray-300' : 'text-gray-600'}`}>

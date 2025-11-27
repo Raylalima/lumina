@@ -67,7 +67,7 @@ export function BusinessSection({ isDark }: BusinessSectionProps) {
     >
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
-          <h2 className={`mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
+          <h2 className={`text-xl mb-4 ${isDark ? 'text-white' : 'text-black'}`}>
             Comércios em Destaque
           </h2>
           <p
